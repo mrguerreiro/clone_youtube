@@ -1,1 +1,1 @@
-# clone_youtube exercicio proposta na trilha de Css da DIO.
+# clone_youtube exercicio proposto na trilha de Css da DIO.
