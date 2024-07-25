@@ -9,8 +9,45 @@
 }
 
 .logo{
-    width: 952px;
-    height: 537px;
+    width: 90px;
+    height: 20px;
+    top: 18px;
+    left: 80px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.pesquisa{
+    width: 404px;
+    height: 40px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #CCCCCC
+}
+
+.camera{
+    width: 24px;
+    height: 24px;
+    padding: 5px 1px 5px 1px;
     gap: 0px;
     opacity: 0px;
 }
+
+.sino{
+    width: 24px;
+    height: 24px;
+    padding: 2px 3px 2px 3px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.avatar{
+    width: 34px;
+    height: 34px;
+    gap: 0px;
+    opacity: 0px;
+    Right
+}
+
