@@ -1,0 +1,16 @@
+.menu{
+    width: 24px;
+    height: 24px;
+    top: 16px;
+    left: 24px;
+    padding: 6px 3px 6px 3px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.logo{
+    width: 952px;
+    height: 537px;
+    gap: 0px;
+    opacity: 0px;
+}
