@@ -1,53 +1,31 @@
-.menu{
-    width: 24px;
-    height: 24px;
-    top: 16px;
-    left: 24px;
-    padding: 6px 3px 6px 3px;
+.container_topo{
+    display: flex;
+    justify-content: space-between ; 
+}
+
+.video{
+    background-color: black;
+    margin-left: 50px;
+    width: 1250px;
+    height: 650px;
     gap: 0px;
+    opacity: 0px;
+    top: 84px;
+    left: 75px;
+    gap: 16px;
     opacity: 0px;
 }
 
-.logo{
-    width: 90px;
-    height: 20px;
-    top: 18px;
-    left: 80px;
-    gap: 0px;
-    opacity: 0px;
-
+.texto_princ{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23.44px;
+    text-align: left;
+    margin-left: 50px;
 }
 
-.pesquisa{
-    width: 404px;
-    height: 40px;
-    gap: 0px;
-    border: 1px 0px 0px 0px;
-    opacity: 0px;
-    border: 1px solid #CCCCCC
+.videoActions{
+    margin-left: 50px;
+    width: 1200px;
 }
-
-.camera{
-    width: 24px;
-    height: 24px;
-    padding: 5px 1px 5px 1px;
-    gap: 0px;
-    opacity: 0px;
-}
-
-.sino{
-    width: 24px;
-    height: 24px;
-    padding: 2px 3px 2px 3px;
-    gap: 0px;
-    opacity: 0px;
-}
-
-.avatar{
-    width: 34px;
-    height: 34px;
-    gap: 0px;
-    opacity: 0px;
-    Right
-}
-
