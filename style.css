@@ -1,31 +1,31 @@
-.container_topo{
+.container{
     display: flex;
-    justify-content: space-between ; 
+    flex-direction: column;
+    width: 100%;
+    max-width: 1800px;
+    margin:0 auto;
+    padding:20px ;
+    color: rgba(249, 249, 249, 1)
 }
 
-.video{
-    background-color: black;
-    margin-left: 50px;
-    width: 1250px;
-    height: 650px;
-    gap: 0px;
-    opacity: 0px;
-    top: 84px;
-    left: 75px;
-    gap: 16px;
-    opacity: 0px;
+.topo{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
 }
 
-.texto_princ{
-    font-family: Roboto;
-    font-size: 20px;
-    font-weight: 600;
-    line-height: 23.44px;
-    text-align: left;
-    margin-left: 50px;
+.meio{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
 }
 
-.videoActions{
-    margin-left: 50px;
-    width: 1200px;
+.Video{
+    width:70%;
+    height: auto;
+}
+
+.Sidebar{
+    width: 30%;
+    height: auto;
 }
